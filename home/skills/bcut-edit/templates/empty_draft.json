@@ -1,0 +1,79 @@
+{
+ "draftCreatedVersion": "3.10.3",
+ "mainWindow": {
+  "browserPanelFiles": []
+ },
+ "timelineWidget": {
+  "linkage": false,
+  "linkageDelegate": {
+   "excludeLinkAgeClipWidget": []
+  },
+  "magnet": true,
+  "ruler": {
+   "MarkPointInfo": []
+  },
+  "timeline": {
+   "adjustTracks": [],
+   "audioTracks": [],
+   "captionTracks": [],
+   "config": {
+    "audioRes": {
+     "channelCount": 2,
+     "sampleRate": 48000
+    },
+    "videoFps": {
+     "den": 1,
+     "num": 30
+    },
+    "videoRes": {
+     "height": 1080,
+     "width": 1920
+    }
+   },
+   "filterTracks": [],
+   "idString": "1765189354919782045",
+   "stickerTracks": [],
+   "timelineVideoFxTracks": [],
+   "videoTracks": [
+    {
+     "clips": [],
+     "compacted": false,
+     "idString": "1765189354919549005",
+     "index": 0,
+     "mute": false,
+     "split": false,
+     "trackType": 1,
+     "transitions": []
+    }
+   ]
+  },
+  "tracking": {
+   "1": {
+    "SeparateAudio": false,
+    "split": false
+   },
+   "tracks": {
+    "KeyFrame": false,
+    "SeparateAudio": true,
+    "audio_tracks": 0,
+    "bgms": "",
+    "effects": "",
+    "filters": "",
+    "flowers": "",
+    "pic_count": 0,
+    "sounds": "",
+    "split": false,
+    "subtitles": "",
+    "transitions": "",
+    "video_count": 0,
+    "video_tracks": 1,
+    "videos": "",
+    "videoup_stickers": ""
+   }
+  },
+  "tts": {},
+  "ttv": {
+   "enableDetach": false
+  }
+ }
+}

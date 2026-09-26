@@ -1,0 +1,14 @@
+{
+ "audioRes": {
+  "channelCount": 2,
+  "sampleRate": 48000
+ },
+ "videoFps": {
+  "den": 1,
+  "num": 30
+ },
+ "videoRes": {
+  "height": 1080,
+  "width": 608
+ }
+}

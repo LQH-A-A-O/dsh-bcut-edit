@@ -1,0 +1,39 @@
+{
+ "assetInfo": {
+  "assetItemType": 17,
+  "audioType": 0,
+  "content": "折叠翻页",
+  "coverPath": "__CACHE_COVER__/646ee37d57fc05efd278916d6026c243c4cc1316.webp",
+  "customInfos": {
+   "1004": 1
+  },
+  "displayName": "折叠翻页",
+  "duration": 2000,
+  "fontID": 0,
+  "fontSrcPath": "",
+  "frameRateDen": 1,
+  "frameRateNum": 0,
+  "height": 0,
+  "itemName": "折叠翻页",
+  "originDuration": 0,
+  "originSrcPath": "",
+  "originType": 0,
+  "realMaterialId": "5565464",
+  "shotClipId": "",
+  "shotIndex": -1,
+  "srcPath": "__LOCAL_RES__/transition/5565464_20250102_aurora/aurora.videotransition",
+  "type": 10,
+  "videoType": 0,
+  "width": 0
+ },
+ "cover": "__CACHE_COVER__/646ee37d57fc05efd278916d6026c243c4cc1316.webp",
+ "idString": "1763996303072290454",
+ "materialId": "5565464",
+ "overlap": true,
+ "packagePath": "__LOCAL_RES__/transition/5565464_20250102_aurora/aurora.videotransition",
+ "srcIndex": 0,
+ "transitionDur": 2000,
+ "transitionName": "折叠翻页",
+ "transitionType": 1,
+ "uid": "4530968676314407956"
+}

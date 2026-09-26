@@ -1,0 +1,59 @@
+{
+ "assetInfo": {
+  "assetItemType": 5,
+  "audioType": 2,
+  "content": "建国大业",
+  "coverPath": "",
+  "customInfos": {
+   "1001": 0,
+   "1002": 172200,
+   "1003": "player"
+  },
+  "displayName": "建国大业",
+  "duration": 172199,
+  "fontID": 0,
+  "fontSrcPath": "",
+  "frameRateDen": 1,
+  "frameRateNum": 0,
+  "height": 0,
+  "itemName": "建国大业",
+  "originDuration": 0,
+  "originSrcPath": "",
+  "originType": 0,
+  "realMaterialId": "1546647228",
+  "shotClipId": "",
+  "shotIndex": -1,
+  "srcPath": "",
+  "type": 2,
+  "videoType": 0,
+  "width": 0
+ },
+ "deNoiseLevel": -1,
+ "fadeIn": 0,
+ "fadeOut": 0,
+ "fxs": [
+  {
+   "audioFxType": 0,
+   "bizType": 1,
+   "fxName": "Volume",
+   "gainValue": -7.199999809265137,
+   "idString": "1763996303073536020"
+  }
+ ],
+ "idString": "1763996303073694015",
+ "inPoint": 0,
+ "keepAudioPitch": true,
+ "markSet": [
+  52100
+ ],
+ "materialId": "1546647228",
+ "originalFilePath": "",
+ "outPoint": 50267,
+ "rowInTrack": 0,
+ "sourcePath": "",
+ "speed": 1,
+ "srcMissing": false,
+ "trimIn": 39433,
+ "trimOut": 89700,
+ "uid": "7571877123154154540"
+}

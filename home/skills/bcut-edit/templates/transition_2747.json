@@ -1,0 +1,39 @@
+{
+ "assetInfo": {
+  "assetItemType": 17,
+  "audioType": 0,
+  "content": "黑场过渡",
+  "coverPath": "__CACHE_COVER__/73c96d925a7dff90be4485343b16c29b6cf0f8eb.gif",
+  "customInfos": {
+   "1004": 1
+  },
+  "displayName": "黑场过渡",
+  "duration": 2000,
+  "fontID": 0,
+  "fontSrcPath": "",
+  "frameRateDen": 1,
+  "frameRateNum": 0,
+  "height": 0,
+  "itemName": "黑场过渡",
+  "originDuration": 0,
+  "originSrcPath": "",
+  "originType": 0,
+  "realMaterialId": "2747",
+  "shotClipId": "",
+  "shotIndex": -1,
+  "srcPath": "__LOCAL_RES__/transition/2747_20250303_aurora/aurora.videotransition",
+  "type": 10,
+  "videoType": 0,
+  "width": 0
+ },
+ "cover": "__CACHE_COVER__/73c96d925a7dff90be4485343b16c29b6cf0f8eb.gif",
+ "idString": "1759068449359909035",
+ "materialId": "2747",
+ "overlap": true,
+ "packagePath": "__LOCAL_RES__/transition/2747_20250303_aurora/aurora.videotransition",
+ "srcIndex": 1,
+ "transitionDur": 2000,
+ "transitionName": "黑场过渡",
+ "transitionType": 1,
+ "uid": "2370894222311272815"
+}

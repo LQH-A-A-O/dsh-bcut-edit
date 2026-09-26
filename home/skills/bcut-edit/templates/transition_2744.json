@@ -1,0 +1,39 @@
+{
+ "assetInfo": {
+  "assetItemType": 17,
+  "audioType": 0,
+  "content": "交叉褪化",
+  "coverPath": "__CACHE_COVER__/d804779766e4260525244cdf705cc8562b3a40c8.gif",
+  "customInfos": {
+   "1004": 1
+  },
+  "displayName": "交叉褪化",
+  "duration": 2000,
+  "fontID": 0,
+  "fontSrcPath": "",
+  "frameRateDen": 1,
+  "frameRateNum": 0,
+  "height": 0,
+  "itemName": "交叉褪化",
+  "originDuration": 0,
+  "originSrcPath": "",
+  "originType": 0,
+  "realMaterialId": "2744",
+  "shotClipId": "",
+  "shotIndex": -1,
+  "srcPath": "__LOCAL_RES__/transition/2744_20250303_aurora/aurora.videotransition",
+  "type": 10,
+  "videoType": 0,
+  "width": 0
+ },
+ "cover": "__CACHE_COVER__/d804779766e4260525244cdf705cc8562b3a40c8.gif",
+ "idString": "1763996303072695969",
+ "materialId": "2744",
+ "overlap": true,
+ "packagePath": "__LOCAL_RES__/transition/2744_20250303_aurora/aurora.videotransition",
+ "srcIndex": 1,
+ "transitionDur": 2000,
+ "transitionName": "交叉褪化",
+ "transitionType": 1,
+ "uid": "4107484877143662523"
+}

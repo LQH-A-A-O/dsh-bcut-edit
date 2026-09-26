@@ -1,0 +1,39 @@
+{
+ "assetInfo": {
+  "assetItemType": 17,
+  "audioType": 0,
+  "content": "推镜",
+  "coverPath": "__CACHE_COVER__/3e21b2c81072dd1e3049d72be7b599635e172e69.webp",
+  "customInfos": {
+   "1004": 0
+  },
+  "displayName": "推镜",
+  "duration": 2000,
+  "fontID": 0,
+  "fontSrcPath": "",
+  "frameRateDen": 1,
+  "frameRateNum": 0,
+  "height": 0,
+  "itemName": "推镜",
+  "originDuration": 0,
+  "originSrcPath": "",
+  "originType": 0,
+  "realMaterialId": "210058",
+  "shotClipId": "",
+  "shotIndex": -1,
+  "srcPath": "__LOCAL_RES__/transition/210058_20250303_aurora/aurora.videotransition",
+  "type": 10,
+  "videoType": 0,
+  "width": 0
+ },
+ "cover": "__CACHE_COVER__/3e21b2c81072dd1e3049d72be7b599635e172e69.webp",
+ "idString": "1763996303072797349",
+ "materialId": "210058",
+ "overlap": false,
+ "packagePath": "__LOCAL_RES__/transition/210058_20250303_aurora/aurora.videotransition",
+ "srcIndex": 6,
+ "transitionDur": 1300,
+ "transitionName": "推镜",
+ "transitionType": 1,
+ "uid": "3059589433135353521"
+}

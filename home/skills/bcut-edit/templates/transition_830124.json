@@ -1,0 +1,39 @@
+{
+ "assetInfo": {
+  "assetItemType": 17,
+  "audioType": 0,
+  "content": "中心扩散",
+  "coverPath": "__CACHE_COVER__/1d91ba25f9365d1e1badf552c004c7c56060581b.webp",
+  "customInfos": {
+   "1004": 1
+  },
+  "displayName": "中心扩散",
+  "duration": 2000,
+  "fontID": 0,
+  "fontSrcPath": "",
+  "frameRateDen": 1,
+  "frameRateNum": 0,
+  "height": 0,
+  "itemName": "中心扩散",
+  "originDuration": 0,
+  "originSrcPath": "",
+  "originType": 0,
+  "realMaterialId": "830124",
+  "shotClipId": "",
+  "shotIndex": -1,
+  "srcPath": "__LOCAL_RES__/transition/830124_20240822_aurora/aurora.videotransition",
+  "type": 10,
+  "videoType": 0,
+  "width": 0
+ },
+ "cover": "__CACHE_COVER__/1d91ba25f9365d1e1badf552c004c7c56060581b.webp",
+ "idString": "1763996303072274914",
+ "materialId": "830124",
+ "overlap": true,
+ "packagePath": "__LOCAL_RES__/transition/830124_20240822_aurora/aurora.videotransition",
+ "srcIndex": 2,
+ "transitionDur": 2000,
+ "transitionName": "中心扩散",
+ "transitionType": 1,
+ "uid": "8453665496332919671"
+}

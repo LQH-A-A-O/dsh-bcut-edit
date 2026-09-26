@@ -1,0 +1,39 @@
+{
+ "assetInfo": {
+  "assetItemType": 17,
+  "audioType": 0,
+  "content": "模糊",
+  "coverPath": "__CACHE_COVER__/93b81784ccb9bfef5f4ce9f2069d425cac203414.webp",
+  "customInfos": {
+   "1004": 1
+  },
+  "displayName": "模糊",
+  "duration": 2000,
+  "fontID": 0,
+  "fontSrcPath": "",
+  "frameRateDen": 1,
+  "frameRateNum": 0,
+  "height": 0,
+  "itemName": "模糊",
+  "originDuration": 0,
+  "originSrcPath": "",
+  "originType": 0,
+  "realMaterialId": "210051",
+  "shotClipId": "",
+  "shotIndex": -1,
+  "srcPath": "__LOCAL_RES__/transition/210051_20250303_aurora/aurora.videotransition",
+  "type": 10,
+  "videoType": 0,
+  "width": 0
+ },
+ "cover": "__CACHE_COVER__/93b81784ccb9bfef5f4ce9f2069d425cac203414.webp",
+ "idString": "1763996303072876106",
+ "materialId": "210051",
+ "overlap": true,
+ "packagePath": "__LOCAL_RES__/transition/210051_20250303_aurora/aurora.videotransition",
+ "srcIndex": 8,
+ "transitionDur": 2000,
+ "transitionName": "模糊",
+ "transitionType": 1,
+ "uid": "9113852175921447217"
+}

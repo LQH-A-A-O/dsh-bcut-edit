@@ -1,0 +1,39 @@
+{
+ "assetInfo": {
+  "assetItemType": 17,
+  "audioType": 0,
+  "content": "光线切割",
+  "coverPath": "__CACHE_COVER__/6b496be6754458213c178b8702cef968d2901f54.webp",
+  "customInfos": {
+   "1004": 1
+  },
+  "displayName": "光线切割",
+  "duration": 2000,
+  "fontID": 0,
+  "fontSrcPath": "",
+  "frameRateDen": 1,
+  "frameRateNum": 0,
+  "height": 0,
+  "itemName": "光线切割",
+  "originDuration": 0,
+  "originSrcPath": "",
+  "originType": 0,
+  "realMaterialId": "4041055",
+  "shotClipId": "",
+  "shotIndex": -1,
+  "srcPath": "__LOCAL_RES__/transition/4041055_20250303_aurora/aurora.videotransition",
+  "type": 10,
+  "videoType": 0,
+  "width": 0
+ },
+ "cover": "__CACHE_COVER__/6b496be6754458213c178b8702cef968d2901f54.webp",
+ "idString": "1763996303073421469",
+ "materialId": "4041055",
+ "overlap": true,
+ "packagePath": "__LOCAL_RES__/transition/4041055_20250303_aurora/aurora.videotransition",
+ "srcIndex": 9,
+ "transitionDur": 2000,
+ "transitionName": "光线切割",
+ "transitionType": 1,
+ "uid": "2548417544941209603"
+}

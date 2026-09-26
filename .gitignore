@@ -1,0 +1,8 @@
+node_modules/
+.venv/
+__pycache__/
+*.pyc
+.tmp/
+bin/
+*.mp4
+*.wav
